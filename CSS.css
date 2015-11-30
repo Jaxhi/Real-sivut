@@ -1,0 +1,169 @@
+body{
+	background-color: #FFCC00;
+	
+}
+
+
+
+
+#lanA
+{
+width:100%;
+height: 72px;
+background-color: #0066CC;
+top: 0px;
+left: 0px;
+position: fixed;
+border-bottom: 2px solid #000000;
+}
+#palkki
+{
+	margin-left:20%;
+	background-color: #0066CC;
+	margin-top: 20px;
+	width: 880px;
+	height: 900px;
+	border: 10px solid #000099;
+}
+#mobile{
+	background-color: #660066;
+}
+
+#potsikko
+{
+width:750px;
+font:200% Futura, Tahoma, sans-serif; color: #FFFFFF;
+margin-top: 0px;
+margin-left: 40%; 
+margin-right: auto;   
+}
+#otsikko
+{
+width:750px;
+font-size: 110%;
+margin-top: 120px;
+margin-left: 20%; 
+margin-right: auto;   
+}
+#otsikko a:link { 
+	font-weight: bold; 
+	font-size: 150%;
+	text-decoration: none; 
+	color: #FFFFFF
+	}
+#otsikko a:visited { 
+	font-weight: bold; 
+	font-size: 150%;
+	text-decoration: none; 
+	color: #FFFFFF
+	}
+#otsikko a:hover, a:focus, a:active { 
+	font-size: 150%;
+	text-decoration: underline;
+	}
+#mainos1
+{
+margin-top: 2px;
+right: 0px;
+position: fixed;
+width: 10%;
+height: 100%;
+
+}
+#kuva
+{
+	margin-top: 70px;
+	margin-left:20%;
+	
+	
+}
+#kuvake
+{
+	position: fixed;
+	right: 15%;
+	margin-top: 40px;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+	
+}
+#kuvake1
+{
+	position: fixed;
+	right: 19%;
+	margin-top: 40px;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+#kuvake2
+{
+	position: fixed;
+	right: 23%;
+	margin-top: 40px;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+#kuvake3
+{
+	position: fixed;
+	right: 27%;
+	margin-top: 40px;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+#navbar {
+	position: fixed;
+	top:30px;
+	left:5%;
+}
+#navbar li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	background-color: #0066CC;
+	
+}
+#navbar a:link { 
+	font-weight: bold; 
+	font-size: 110%;
+	text-decoration: none; 
+	color: #FFFFFF
+	}
+#navbar a:visited { 
+	font-weight: bold; 
+	font-size: 110%;
+	text-decoration: none; 
+	color: #FFFFFF
+	}
+#navbar a:hover, a:focus, a:active { 
+	font-size: 110%;
+	background-color: #000000;
+	}
+	
+#alaotsikko
+{
+font-size: 110%;
+margin-bottom: -20px;
+margin-left: 25%;
+margin-right: auto;   
+}
+#alaotsikko a:link { 
+	font-weight: bold; 
+	font-size: 110%;
+	text-decoration: none; 
+	color: #FFFFFF
+	}
+#alaotsikko a:visited { 
+	font-weight: bold; 
+	font-size: 110%;
+	text-decoration: none; 
+	color: #FFFFFF
+	}
+#alaotsikko a:hover, a:focus, a:active { 
+	font-size: 110%;
+	text-decoration: underline;
+	}
